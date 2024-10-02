@@ -299,11 +299,11 @@ h6 {
 }
 
 .header .logo h1 {
-  font-size: 32px;
+  font-size: 29px;
   margin: 0;
   font-weight: 400;
-  color: #fff;
-  font-family: var(--font-secondary);
+  color: #8ef5b7;
+  font-family: 'Caveat', cursive;
 }
 
 .header .logo i {
